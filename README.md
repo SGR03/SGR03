@@ -4,6 +4,5 @@ Atualmente cursando: Redes de Computadores (Escola Senai de Informática) e Hard
 
 📫Como chegar a mim, [suellen.guedes.007@gmail.com] 
 
-![https://www.freepik.com/free-vector/cloud-internet-technology_4948935.htm ]
-
+![Foto de redes]_(https://www.freepik.com/free-vector/cloud-internet-technology_4948935.htm)
 
