@@ -1,4 +1,4 @@
-#OI , você chegou a Suellen Guedes!
+# ** Oi, você chegou a Suellen Guedes **
 
 Atualmente cursando: Redes de Computadores (Escola Senai de Informática) e Hardware (Microcamp Tatuapé )
 
