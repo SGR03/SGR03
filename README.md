@@ -4,6 +4,8 @@ Atualmente cursando: Redes de Computadores (Escola Senai de Informática) e Hard
 
 📫Como chegar a mim, [suellen.guedes.007@gmail.com] 
 
-https://www.zedge.net/live_wallpaper/671251d6-7166-441f-8324-d943d463d97a
+![image](https://user-images.githubusercontent.com/78150890/120321923-3e4ef680-c2ba-11eb-8802-d0fb380eeb37.png)
+
+
 
 
