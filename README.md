@@ -7,6 +7,7 @@ Atualmente cursando: Redes de Computadores (Escola Senai de Informática) e Hard
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/suellen-guedes-776972206/)](https://www.linkedin.com/in/suellen-guedes-776972206/)  
+
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511949151276)](https://api.whatsapp.com/send?phone=5511949151276)
 
 
